@@ -1,4 +1,4 @@
-# About this project
+# Overview
 
 We propose a novel method to **extract spatial association rules from fuzzy spatial data**. The innovation of our method relies on adequately handling spatial fuzziness by using fuzzy spatial objects and fuzzy topological relationships.
 
